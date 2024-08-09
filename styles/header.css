@@ -13,7 +13,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: .relative;
+    position: relative;
 }
 
 .container {
@@ -28,6 +28,6 @@
     position: absolute;
     top: 100%;
 }
-.container_botao: checked~.lista-menu{
+.container_botao checked~.lista-menu{
     display: block;
 }
